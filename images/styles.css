@@ -10,7 +10,7 @@ form{	margin:0;}
 	#HEADER h1{ margin: 38px 0 0 0; padding: 0 9px 0 9px; float: left; font-size: 19pt;    height: 45px;  line-height: 45px;  background-image: url(bg_logo.gif);  background-repeat: no-repeat;      }
 	#HEADER h1 a{ text-decoration: none; color: White; font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 18pt; margin: 0; padding: 0;    }
 	#HEADER a:hover{ text-decoration: none;  }
-	#HEADER p{ float: right;  font-size: 10pt;  color: White;  font-family: "Times New Roman", Times, serif;  font-style: italic;    margin: 59px 0 0 0;  padding: 0;  line-height: 9pt;            }
+	#HEADER p{ float: right;  font-size: 20pt;  color: Black;  font-family: "Times New Roman", Times, serif;  font-style: italic;    margin: 59px 0 0 0;  padding: 0;  line-height: 9pt;            }
 	
 #NAVIGATION{ width: 750px; height:31px; text-align: left; margin-left: auto; margin-right: auto; background-color: #2E6BA9;  background-image: url(bg_topnav2.gif);  }
 	#TABS{ margin-right:116px; height:31px;  background-image: url(bg_topnav.gif);  background-repeat: repeat-x;  text-align: center; border-right: 1px solid #666666;  line-height: 31px;   }
