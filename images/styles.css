@@ -6,7 +6,7 @@ a:hover{	text-decoration : underline;  color: #2CB73B;   }
 form{	margin:0;}
 
 /* STRUCTURE */
-#HEADER{ width: 750px; height: 53px; margin-left: auto; margin-right: auto; padding: 0; font-size: 83px; }
+#HEADER{ width: 500px; height: 10px; margin-left: auto; margin-right: auto; padding: 0; font-size: 83px; }
 	#HEADER h1{ margin: 38px 0 0 0; padding: 0 9px 0 9px; float: left; font-size: 19pt;    height: 45px;  line-height: 45px;  background-image: url(bg_logo.gif);  background-repeat: no-repeat;      }
 	#HEADER h1 a{ text-decoration: none; color: White; font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 18pt; margin: 0; padding: 0;    }
 	#HEADER a:hover{ text-decoration: none;  }
@@ -48,7 +48,7 @@ form{	margin:0;}
 	#LEFTBOX ul a:hover{text-decoration: underline;}	
 
 	#TEXT {  margin: 0 30px 0 220px;  display: block;  position: relative;  padding-top: 15px;  padding-bottom: 20px;  }
-	#TEXT h1{ color: #5F5F5F;  font-size: 18px;  font-weight: normal;  margin: 0 0 5px 0;  padding: 5px 0 0 0;     }
+	#TEXT h1{ color: #11111;  font-size: 18px;  font-weight: normal;  margin: 0 0 5px 0;  padding: 5px 0 0 0;     }
 	#TEXT p{ text-align: justify;  line-height: 18px;  margin-bottom: 18px; }
 	#TEXT ul.Path { margin-left: 0;  padding-left: 0;  display: block; border: none;  margin: 0 0 15px 0;   } 
 	#TEXT ul.Path li {margin-left: 0; padding-left: 0px; border: none; list-style: none; display: inline; color: #B90000; font-size: 11px;  font-family: Tahoma, Arial, Helvetica, sans-serif;  font-weight: bold;  line-height: 18px;          }
